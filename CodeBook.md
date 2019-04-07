@@ -19,7 +19,7 @@ Subject identifier, integer, ranges from 1 to 30.
 
 
 
-activity
+<p>activity
 
 Activity identifier, string with 6 possible values:
 
@@ -38,9 +38,7 @@ STANDING: subject was standing
 LAYING: subject was laying
 
 
-
-
-MEASUREMENTS
+<p>MEASUREMENTS
 
 timeDomainBodyAccelerometerMeanX
 

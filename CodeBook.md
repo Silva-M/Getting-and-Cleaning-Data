@@ -19,7 +19,7 @@ Subject identifier, integer, ranges from 1 to 30.
 
 
 
-<p>activity</p<
+<p>activity</p>
 
 Activity identifier, string with 6 possible values:
 

@@ -1,7 +1,4 @@
----
-title: "README"
-output: github_document
----
+
 An overview of the different files created for the Getting and Cleaning Data course project.
 
 README.md: Provides an overview of the data set and how it was created.

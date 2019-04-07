@@ -1,15 +1,16 @@
-
-
-
 <b>DATA</b>
 
 The tidy_data.txt data file is a text file.
 The first row contains the names of the variables, which are listed and described in the Variables section. 
+
 <br>
+
 <b>VARIABLES</b>
 
 Each row contains, for a given subject and activity, 79 averaged signal measurements.
+
 <br>
+
 <b>IDENTIFIERS</b>
 
 subject

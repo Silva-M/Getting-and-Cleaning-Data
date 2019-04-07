@@ -1,11 +1,7 @@
-#############################################################################
-#
-# 
 #   run_analysis.R
 #   Running this script will download the zip file containing the Samsung Galaxy data
 #   from the UCI machine learning library and produce the Tiny txt file for 
 #   the Getting and Cleaning Data Course Project.
-#
 
 library(dplyr)
 

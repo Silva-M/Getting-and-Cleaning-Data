@@ -5,11 +5,11 @@
 
 The tidy_data.txt data file is a text file.
 The first row contains the names of the variables, which are listed and described in the Variables section. 
-
+<br>
 <b>VARIABLES</b>
 
 Each row contains, for a given subject and activity, 79 averaged signal measurements.
-
+<br>
 <b>IDENTIFIERS</b>
 
 subject
@@ -17,13 +17,13 @@ subject
 Subject identifier, integer, ranges from 1 to 30.
 
 
-
+<br>
 
 <b>ACTIVITY</b>
 
 Activity identifier, string with 6 possible values:
 
-
+<br>
 
 WALKING: subject was walking
 
@@ -37,7 +37,7 @@ STANDING: subject was standing
 
 LAYING: subject was laying
 
-
+<br>
 <b>MEASUREMENTS</b>
 
 timeDomainBodyAccelerometerMeanX
